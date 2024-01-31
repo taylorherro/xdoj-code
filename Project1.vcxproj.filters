@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FileName.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈的基本操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="贪吃蛇.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C++2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="队列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="括号匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++初探约瑟夫环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question19.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question20.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question21.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="图的深度优先搜索.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question23.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question24.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question25.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C语言字符串标准输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求解next数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="111.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="kmp完整版.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完全二叉树的字树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++的二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉排序树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="胡的code1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="哈弗曼编码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="后缀表达式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="question26.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一个树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="哈夫曼编码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="317.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树的基本操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="huffman.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3xx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出某一层.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序详解.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="e二分查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最短路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zhizhen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="直接排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二分查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="chazhao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="图的广度优先遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="希尔排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="大堆排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xdoj堆排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xdoj机考.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="新二叉排序树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="括号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串逆序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表逆序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="出栈序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="归归并排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="guiguigui.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="机考练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c++l练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Project1.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
